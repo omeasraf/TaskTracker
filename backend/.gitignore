@@ -34,3 +34,7 @@ build/
 
 ### Application properties ###
 !**/src/main/**/application.properties
+
+backend/src/main/resources/application.properties
+application.properties
+src/main/resources/application.properties
